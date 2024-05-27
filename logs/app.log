@@ -1,0 +1,272 @@
+2024-05-09 21:59:09 [INFO]: Environment Variables Successfully Imported...............
+2024-05-09 21:59:09 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-09 21:59:10 [INFO]: Website URL: 
+2024-05-09 21:59:27 [INFO]: Environment Variables Successfully Imported...............
+2024-05-09 21:59:27 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-09 21:59:27 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-09 21:59:29 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-09 21:59:30 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/YdSBG6QysIuAYYQyD?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-09 21:59:59 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/BqLPmWdH1AEGj2BmF/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-09 21:59:59 [INFO]: Environment Variables Successfully Imported...............
+2024-05-09 22:00:00 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-09 22:00:00 [INFO]: No existing DB found in D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/, skipping load
+2024-05-09 22:00:00 [INFO]: No existing DB found in D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/, skipping load
+2024-05-09 22:00:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-09 22:00:03 [INFO]: Count of documents in Vector DB is: 14
+2024-05-09 22:00:03 [INFO]: Data persisted in the vector database successfully ...........
+2024-05-09 22:00:03 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-09 22:11:24 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:03:55 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:03:55 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:03:56 [INFO]: Website URL: 
+2024-05-27 10:04:17 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:04:17 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:04:17 [INFO]: Website URL: 
+2024-05-27 10:04:23 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:04:23 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:04:23 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:04:27 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:04:29 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/b8QXbbfKyoqzdybch?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:05:29 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/b8QXbbfKyoqzdybch?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:05:48 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/WAPoLHIwGsR4Zh2D0/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:05:49 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:05:51 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:06:01 [INFO]: loaded in 14 embeddings
+2024-05-27 10:06:01 [INFO]: loaded in 1 collections
+2024-05-27 10:06:01 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:06:06 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:06:07 [INFO]: Count of documents in Vector DB is: 28
+2024-05-27 10:06:07 [INFO]: Data persisted in the vector database successfully ...........
+2024-05-27 10:06:07 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:10:52 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:10:52 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:10:53 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:10:55 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:10:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:11:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:11:27 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:11:27 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:11:27 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:11:28 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:11:33 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:11:33 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:11:33 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:11:33 [INFO]: Website URL: 
+2024-05-27 10:12:52 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:12:52 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:12:52 [INFO]: Website URL: 
+2024-05-27 10:13:11 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:13:11 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:13:12 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:13:13 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:13:14 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/y8REChU6SsgLYvHBx?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:13:49 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/Hp4XUPqXSx5XAR7lb/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:13:49 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:13:49 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:13:49 [INFO]: loaded in 28 embeddings
+2024-05-27 10:13:49 [INFO]: loaded in 1 collections
+2024-05-27 10:13:49 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:13:50 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:13:51 [INFO]: Count of documents in Vector DB is: 42
+2024-05-27 10:13:51 [INFO]: Data persisted in the vector database successfully ...........
+2024-05-27 10:13:51 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:13:55 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:13:55 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:13:55 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:13:58 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:13:59 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:14:03 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:14:35 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:14:35 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:14:35 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:14:36 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:14:37 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:14:37 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:14:37 [INFO]: Website URL: 
+2024-05-27 10:14:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:14:48 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:14:48 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:14:48 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:14:49 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:14:50 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/As53wUIutLkI0aPAe?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:15:33 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/CBN9stY3YOg61er2n/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:15:33 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:15:33 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:15:33 [INFO]: loaded in 42 embeddings
+2024-05-27 10:15:33 [INFO]: loaded in 1 collections
+2024-05-27 10:15:33 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:15:34 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:15:35 [INFO]: Count of documents in Vector DB is: 56
+2024-05-27 10:15:35 [INFO]: Data persisted in the vector database successfully ...........
+2024-05-27 10:15:35 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:15:40 [INFO]: Environment Variables Successfully Imported...............
+2024-05-27 10:15:40 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:15:40 [INFO]: Website URL: https://api.python.langchain.com/en/latest/langchain_api_reference.html#
+2024-05-27 10:15:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:15:42 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:15:46 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:21:51 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:21:51 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:22:02 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:22:02 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:22:04 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:22:06 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/tX9prHBkDR5E51RBW?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:22:41 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/uDgbpfdi2LqiPJl8u/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:22:42 [INFO]: Cleaned document chunks successfully.
+2024-05-27 10:22:42 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:22:42 [INFO]: loaded in 56 embeddings
+2024-05-27 10:22:42 [INFO]: loaded in 1 collections
+2024-05-27 10:22:42 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:22:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:22:44 [INFO]: Count of documents in Vector DB is: 70
+2024-05-27 10:22:44 [INFO]: Data persisted in the vector database successfully.
+2024-05-27 10:22:44 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:23:25 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:23:25 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:23:27 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:23:27 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:23:31 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:26:21 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:26:21 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:26:37 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:26:37 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:26:39 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:26:40 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/xOW3nEUun0yK5welC?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:27:17 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/YGstudnVKtWZS8avC/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:27:18 [INFO]: Cleaned document chunks successfully.
+2024-05-27 10:27:18 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:27:18 [INFO]: loaded in 70 embeddings
+2024-05-27 10:27:18 [INFO]: loaded in 1 collections
+2024-05-27 10:27:18 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:27:20 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:27:20 [INFO]: Count of documents in Vector DB is: 84
+2024-05-27 10:27:20 [INFO]: Data persisted in the vector database successfully.
+2024-05-27 10:27:20 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:27:21 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:27:40 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:27:40 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:27:48 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:27:48 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:28:15 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:28:15 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:28:17 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:28:19 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/bT8HR3BmOwywIyOhB?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:28:41 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/96gtqm658Pdc2KnpK/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 10:28:42 [INFO]: Cleaned document chunks successfully.
+2024-05-27 10:28:42 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 10:28:43 [INFO]: loaded in 84 embeddings
+2024-05-27 10:28:43 [INFO]: loaded in 1 collections
+2024-05-27 10:28:43 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 10:28:44 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:28:45 [INFO]: Count of documents in Vector DB is: 98
+2024-05-27 10:28:45 [INFO]: Data persisted in the vector database successfully.
+2024-05-27 10:28:45 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:28:55 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:28:55 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:28:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:28:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:29:03 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:50:01 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:50:01 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:50:03 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:50:03 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:50:06 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:50:36 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:50:36 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:50:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:50:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 10:50:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 10:51:30 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:51:30 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:51:51 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:51:51 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:51:52 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:51:53 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/uwYE0yv0vUHmaodgG?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:52:54 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/uwYE0yv0vUHmaodgG?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:53:54 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/uwYE0yv0vUHmaodgG?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:54:03 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:54:03 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:54:05 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:54:06 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/8sk0YyTyvq8nW2yww?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:54:12 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:54:12 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:54:13 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 402 Payment Required"
+2024-05-27 10:54:13 [ERROR]: Error occurred while fetching vector store: By launching this job you will exceed the memory limit of 8192MB for all your Actor runs and builds (currently used: 8192MB, requested: 4096MB). Please consider an upgrade to a [paid plan](https://console.apify.com/billing/subscription) to increase your Actor memory limit.
+2024-05-27 10:55:54 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:55:54 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:57:29 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:57:29 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:57:40 [INFO]: Environment Variables Successfully Imported
+2024-05-27 10:57:40 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 10:57:43 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 10:57:44 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/2jJZVyaWoJivBDTyN?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:58:45 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/2jJZVyaWoJivBDTyN?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 10:59:45 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/2jJZVyaWoJivBDTyN?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:00:46 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/2jJZVyaWoJivBDTyN?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:01:18 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/G9EEXAx3xxapF6NYi/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 11:01:19 [INFO]: Cleaned document chunks successfully.
+2024-05-27 11:01:20 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 11:01:22 [INFO]: loaded in 98 embeddings
+2024-05-27 11:01:22 [INFO]: loaded in 1 collections
+2024-05-27 11:01:22 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 11:01:24 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:01:26 [INFO]: Count of documents in Vector DB is: 137
+2024-05-27 11:01:26 [INFO]: Data persisted in the vector database successfully.
+2024-05-27 11:01:26 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:01:39 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:01:39 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:01:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:01:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:01:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:01:52 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:01:52 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:01:54 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:01:55 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:01:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:03:06 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:03:06 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:03:08 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:03:08 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:03:12 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:04:25 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:04:25 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:04:28 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:04:28 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:05:54 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:05:54 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:05:54 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:05:58 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:06:41 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:06:41 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:06:42 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:06:47 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:06:54 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:06:54 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:06:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:06:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:07:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:07:32 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:07:32 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:08:11 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:08:11 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:08:12 [INFO]: HTTP Request: POST https://api.apify.com/v2/acts/apify~website-content-crawler/runs "HTTP/1.1 201 Created"
+2024-05-27 11:08:14 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/zl3IfEsWKTYOtAvdI?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:09:14 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/zl3IfEsWKTYOtAvdI?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:10:15 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/zl3IfEsWKTYOtAvdI?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:11:15 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/zl3IfEsWKTYOtAvdI?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:12:16 [INFO]: HTTP Request: GET https://api.apify.com/v2/actor-runs/zl3IfEsWKTYOtAvdI?waitForFinish=999999 "HTTP/1.1 200 OK"
+2024-05-27 11:12:20 [INFO]: HTTP Request: GET https://api.apify.com/v2/datasets/VBNgJwfLM5YcAaMwH/items?clean=1 "HTTP/1.1 200 OK"
+2024-05-27 11:12:20 [INFO]: Cleaned document chunks successfully.
+2024-05-27 11:12:20 [INFO]: Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2024-05-27 11:12:20 [INFO]: loaded in 137 embeddings
+2024-05-27 11:12:20 [INFO]: loaded in 1 collections
+2024-05-27 11:12:20 [INFO]: collection with name langchain already exists, returning existing collection
+2024-05-27 11:12:22 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:12:23 [INFO]: Count of documents in Vector DB is: 176
+2024-05-27 11:12:23 [INFO]: Data persisted in the vector database successfully.
+2024-05-27 11:12:23 [INFO]: Persisting DB to disk, putting it in the save folder: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:12:58 [INFO]: Environment Variables Successfully Imported
+2024-05-27 11:12:58 [INFO]: PERSIST_DIRECTORY: D:\My GitHub Repos\chat-with-dynamic-websites\docs/chroma/
+2024-05-27 11:13:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-27 11:13:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-05-27 11:13:04 [INFO]: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
