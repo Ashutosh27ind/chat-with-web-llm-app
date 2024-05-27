@@ -6,6 +6,9 @@
 
 **Frog Bot is a conversational AI application built using Streamlit and LangChain technologies. It allows users to interact with an AI agent trained on website content to provide informative responses to user queries.**
 
+## Demo
+![LLM Bot App Demo](./resources/streamlit-app-recording.gif)
+
 
 ## Folder Structure
 
@@ -135,6 +138,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Don't forget to star this repo if you find it useful!*
+*Don't forget to star ⭐ this repo if you find it useful!*
 
 ---
