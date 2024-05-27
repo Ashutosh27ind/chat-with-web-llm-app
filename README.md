@@ -3,6 +3,7 @@
 # Frog Bot 🐸🤖🔗
 ## Chat with any complex website
 Frog Bot is a conversational AI application built using Streamlit and LangChain technologies. It allows users to interact with an AI agent trained on website content to provide informative responses to user queries.
+---
 
 ## Folder Structure
 
