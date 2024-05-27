@@ -2,8 +2,10 @@
 
 # Frog Bot 🐸🤖🔗
 ## Chat with any complex website
-Frog Bot is a conversational AI application built using Streamlit and LangChain technologies. It allows users to interact with an AI agent trained on website content to provide informative responses to user queries.
 ---
+
+**Frog Bot is a conversational AI application built using Streamlit and LangChain technologies. It allows users to interact with an AI agent trained on website content to provide informative responses to user queries.**
+
 
 ## Folder Structure
 
@@ -59,7 +61,7 @@ To set up and run this project, follow these steps:
 
 ## Usage
 
-1. Enter the URL of the website you want to inquire about in the sidebar.
+1. Enter the website URL you want to inquire about in the sidebar.
 2. Type your message/query in the input box and press Enter.
 3. View the AI agent's response in the chat interface.
 4. Optionally, you can clear the chat history by clicking the "Clear message history" button in the sidebar.
@@ -115,7 +117,7 @@ This code creates an interactive Streamlit application for users to ask question
      
 8. **Streamlit App Setup:**
    - The Streamlit application is configured with a title, sidebar, and main content area:
-     - The sidebar allows users to input the website URL and clear the chat history.
+     - The sidebar lets users input the website URL and clear the chat history.
      - If a URL is provided, the vector store is retrieved and stored in the session state.
      - Users can type their messages, which are processed to generate responses.
      - The chat history is displayed, showing both user queries and AI responses.  
@@ -136,4 +138,3 @@ This project is licensed under the [MIT License](LICENSE).
 *Don't forget to star this repo if you find it useful!*
 
 ---
-# chat-with-web-llm-app
